@@ -1,1 +1,102 @@
 
+University	SAT	Top10	Accept	SFRatio	Expenses	GradRate
+Harvard University	1310	89	22	13	22704	94
+California Institute of Technology	1415	100	25	6	63575	81
+Massachusetts Institute of Technology	1260	62	59	9	25026	72
+Stanford University	1310	76	24	12	31510	88
+Princeton University	1280	83	33	13	21864	90
+University of Cambridge	1350	87	18	26	64354	81
+University of Oxford	1400	88	28	25	60100	92
+University of California, Berkeley	1346	76	28	27	55717	80
+Imperial College London	1241	81	26	20	21732	96
+Yale University	1348	80	35	20	50291	93
+University of California, Los Angeles	1252	79	20	24	62168	96
+University of Chicago	1278	78	35	30	44818	89
+Johns Hopkins University	1239	76	20	18	29562	80
+Cornell University	1324	75	20	18	61049	86
+ETH Zurich Ã¢Â€Â“ Swiss Federal Institute of Technology Zurich	1216	75	24	14	60674	86
+University of Michigan	1252	75	28	16	37538	81
+University of Toronto	1237	84	35	26	36218	91
+Columbia University	1268	89	32	18	29047	89
+University of Pennsylvania	1280	89	22	10	23848	88
+Carnegie Mellon University	1248	76	23	21	26149	82
+University of Hong Kong	1338	75	25	21	51911	84
+University College London	1245	88	33	26	31501	94
+University of Washington	1253	81	22	24	68712	81
+Duke University	1317	81	33	24	37241	95
+Northwestern University	1336	87	18	17	68944	93
+University of Tokyo	1288	75	35	23	42745	92
+Georgia Institute of Technology	1260	89	32	25	42632	81
+Pohang University of Science and Technology	1312	75	25	11	35512	84
+University of California, Santa Barbara	1216	78	34	27	48631	90
+University of British Columbia	1230	82	33	14	67720	85
+University of North Carolina at Chapel Hill	1294	89	19	10	48856	82
+University of California, San Diego	1339	87	27	29	68396	90
+University of Illinois at Urbana-Champaign	1203	87	30	26	35962	80
+National University of Singapore	1286	85	24	12	67456	94
+McGill University	1242	79	26	25	69758	83
+University of Melbourne	1214	78	31	15	59650	81
+Peking University	1297	82	24	30	37570	81
+Washington University in St Louis	1215	85	31	26	32820	94
+ÃƒÂ‰cole Polytechnique	1297	86	28	10	51181	89
+University of Edinburgh	1274	86	29	14	24160	96
+Hong Kong University of Science and Technology	1263	78	22	19	52840	92
+ÃƒÂ‰cole Normale SupÃƒÂ©rieure	1317	86	19	21	63319	82
+Australian National University	1315	81	29	10	24692	86
+Karolinska Institute	1311	75	20	10	53081	82
+University of GÃƒÂ¶ttingen	1277	89	24	16	42904	92
+University of Wisconsin	1315	81	22	11	23521	83
+Rice University	1301	89	18	19	42727	83
+ÃƒÂ‰cole Polytechnique FÃƒÂ©dÃƒÂ©rale de Lausanne	1302	82	28	10	41117	91
+University of California, Irvine	1331	76	31	25	50125	86
+University of Science and Technology of China	1253	82	21	24	37943	94
+Vanderbilt University	1218	88	23	19	29461	84
+University of Minnesota	1263	85	20	17	38733	82
+Tufts University	1324	81	30	18	42006	92
+University of California, Davis	1348	85	21	12	57945	81
+Brown University	1345	78	21	14	58973	92
+University of Massachusetts	1228	81	30	12	40614	83
+Kyoto University	1249	81	27	20	33548	85
+Tsinghua University	1236	75	26	19	24379	89
+Boston University	1253	85	34	13	60248	88
+New York University	1283	80	20	11	46363	93
+Emory University	1277	78	20	27	28163	85
+LMU Munich	1333	88	28	12	40802	84
+University of Notre Dame	1245	79	33	16	32391	90
+University of Pittsburgh	1315	75	32	17	27503	96
+Case Western Reserve University	1210	83	19	20	68473	94
+Ohio State University	1211	81	22	12	31087	91
+University of Colorado Boulder	1275	81	31	17	63757	84
+University of Bristol	1292	83	23	20	34642	95
+University of California, Santa Cruz	1314	85	33	23	31408	93
+Yeshiva University	1325	75	19	13	45056	80
+University of Sydney	1340	77	34	30	34385	89
+University of Virginia	1203	80	18	17	53427	86
+University of Adelaide	1252	83	28	16	56662	92
+University of Southern California	1310	85	19	26	33479	85
+William & Mary	1269	80	33	13	35862	91
+Trinity College Dublin	1276	85	24	20	52619	96
+KingÃ¢Â€Â™s College London	1306	87	32	27	49638	88
+Stony Brook University	1268	77	28	19	33808	94
+Korea Advanced Institute of Science and Technology (KAIST)	1314	83	33	13	68077	96
+University of Sussex	1337	84	18	12	33227	94
+The University of Queensland	1315	87	22	27	69112	88
+University of York	1306	88	28	14	40047	84
+Heidelberg University	1279	89	21	14	60437	83
+University of Utah	1285	89	28	26	29778	93
+Durham University	1203	81	19	17	49602	86
+London School of Economics and Political Science	1258	79	26	10	62279	81
+University of Manchester	1304	79	34	26	26180	89
+Royal Holloway, University of London	1251	77	25	23	54654	83
+Lund University	1272	78	21	25	58158	81
+University of Southampton	1276	85	18	28	34171	81
+University of Zurich	1242	82	23	19	25561	82
+Wake Forest University	1259	75	19	11	60632	92
+McMaster University	1224	83	33	13	63136	93
+University College Dublin	1308	77	27	27	59220	85
+George Washington University	1246	89	19	15	49854	89
+University of Arizona	1289	82	28	11	27468	83
+University of Basel	1333	79	27	29	29913	88
+University of Maryland, College Park	1294	79	20	14	44276	84
+Dartmouth College	1310	84	34	29	64607	82
+Technical University of Munich	1333	75	20	28	60458	81
